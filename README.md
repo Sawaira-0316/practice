@@ -1,4 +1,4 @@
 # practice 
 
-this repo for my practice programs..... etc..
+this repo for my practice programs yes for system design..... etc..
 ..
